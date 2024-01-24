@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "cstdlib": "c",
+        "random": "c",
+        "array": "c",
+        "vector": "c",
+        "string": "c",
+        "string_view": "c",
+        "__node_handle": "c",
+        "linkedlist.h": "c",
+        "stdio.h": "c"
+    },
+    "cmake.configureOnOpen": false
+}
